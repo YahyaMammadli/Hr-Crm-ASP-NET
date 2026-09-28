@@ -1,0 +1,11 @@
+C:\Users\ACER\Desktop\HrCrm2\HrCrm.Domain\bin\Debug\net8.0\HrCrm.Domain.deps.json
+C:\Users\ACER\Desktop\HrCrm2\HrCrm.Domain\bin\Debug\net8.0\HrCrm.Domain.dll
+C:\Users\ACER\Desktop\HrCrm2\HrCrm.Domain\bin\Debug\net8.0\HrCrm.Domain.pdb
+C:\Users\ACER\Desktop\HrCrm2\HrCrm.Domain\obj\Debug\net8.0\HrCrm.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\HrCrm2\HrCrm.Domain\obj\Debug\net8.0\HrCrm.Domain.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\HrCrm2\HrCrm.Domain\obj\Debug\net8.0\HrCrm.Domain.AssemblyInfo.cs
+C:\Users\ACER\Desktop\HrCrm2\HrCrm.Domain\obj\Debug\net8.0\HrCrm.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\HrCrm2\HrCrm.Domain\obj\Debug\net8.0\HrCrm.Domain.dll
+C:\Users\ACER\Desktop\HrCrm2\HrCrm.Domain\obj\Debug\net8.0\refint\HrCrm.Domain.dll
+C:\Users\ACER\Desktop\HrCrm2\HrCrm.Domain\obj\Debug\net8.0\HrCrm.Domain.pdb
+C:\Users\ACER\Desktop\HrCrm2\HrCrm.Domain\obj\Debug\net8.0\ref\HrCrm.Domain.dll

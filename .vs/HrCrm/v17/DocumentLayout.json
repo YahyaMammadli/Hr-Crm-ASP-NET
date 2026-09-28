@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Desktop\\HrCrm2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B18B4C8-3603-4E9F-ADA4-E4E0127C2522}|HrCrm.WebApi\\HrCrm.WebApi.csproj|c:\\users\\acer\\desktop\\hrcrm2\\hrcrm.webapi\\hrcrm.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5B18B4C8-3603-4E9F-ADA4-E4E0127C2522}|HrCrm.WebApi\\HrCrm.WebApi.csproj|solutionrelative:hrcrm.webapi\\hrcrm.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HrCrm.WebApi",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\HrCrm2\\HrCrm.WebApi\\HrCrm.WebApi.csproj",
+              "RelativeDocumentMoniker": "HrCrm.WebApi\\HrCrm.WebApi.csproj",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\HrCrm2\\HrCrm.WebApi\\HrCrm.WebApi.csproj",
+              "RelativeToolTip": "HrCrm.WebApi\\HrCrm.WebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-28T14:56:02.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
